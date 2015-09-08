@@ -1,0 +1,5 @@
+Science Navigation Group Test
+========================
+
+To test:
+$ mvn test
